@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
 gem "github-pages", group: :jekyll_plugins
-title: Orlando .NET User Group (ONETUG)
-description: A Central Florida based community centered around the .NET ecosystem
+title: ONETUG
 logo: onetuglogo.jpg
 show_downloads: false
