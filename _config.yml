@@ -3,3 +3,5 @@ gem "github-pages", group: :jekyll_plugins
 title: ONETUG
 logo: onetuglogo.jpg
 show_downloads: false
+plugins:
+  - jekyll-redirect-from
