@@ -1,2 +1,4 @@
-title: Twitter
-redirect_to: http://twitter.com/onetug
+---
+title: My amazing post
+redirect_to: http://www.github.com
+---
