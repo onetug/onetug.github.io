@@ -2,8 +2,11 @@ theme: jekyll-theme-minimal
 gem "github-pages", group: :jekyll_plugins
 plugins:
   - jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
 title: ONETUG
 logo: onetuglogo.jpg
 show_downloads: false
-redirect_from: /twitter
-redirect_to: http://twitter.com/onetug
+permalink: /twitter
+redirect_to:
+  - http://twitter.com/onetug
