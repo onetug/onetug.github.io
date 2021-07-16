@@ -47,35 +47,36 @@ Chris Woodruff, AKA Woody, is the Team Leader of Developer Relations at Quicken 
 
 YouTube recording
 
-https://youtu.be/a2VkWrwvgrY
+[https://youtu.be/a2VkWrwvgrY](https://youtu.be/a2VkWrwvgrY)
 
 Code and slides
 
-https://github.com/cwoodruff
-https://github.com/cwoodruff/ChinookASPNETWebAPI
+[https://github.com/cwoodruff](https://github.com/cwoodruff)
+
+[https://github.com/cwoodruff/ChinookASPNETWebAPI](https://github.com/cwoodruff/ChinookASPNETWebAPI)
 
 Microsoft API guidelines
 
-https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md
+[https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
 
 Airtasker spot - concise friendly way to describe API contract
 
-https://github.com/airtasker/spot/#why-we-built-spot
+[https://github.com/airtasker/spot/#why-we-built-spot](https://github.com/airtasker/spot/#why-we-built-spot)
 
 Produces data annotation
 
-https://stackoverflow.com/questions/38414840/produces-data-annotation
+[https://stackoverflow.com/questions/38414840/produces-data-annotation](https://stackoverflow.com/questions/38414840/produces-data-annotation)
 
 FluentValidation — FluentValidation documentation
 
-https://docs.fluentvalidation.net/en/latest/index.html
+[https://docs.fluentvalidation.net/en/latest/index.html](https://docs.fluentvalidation.net/en/latest/index.html)
 
 Job listings (mention this meetup when you contact them)
 
-https://myrocketcareers.com
+[https://myrocketcareers.com](https://myrocketcareers.com)
 
-https://www.sunlightsolutions.com/careers
+[https://www.sunlightsolutions.com/careers](https://www.sunlightsolutions.com/careers)
 
 Bourbon trail
 
-https://mbroland.com/
+[https://mbroland.com/](https://mbroland.com/)
