@@ -9,4 +9,6 @@ Live site: [onetug.net](https://onetug.net)
 
 ### Recent ONETUG meetups
 
+* [July 27th 2021-Sean Killeen - An Introduction to the Actor Model and Akka .NET](https://www.meetup.com/ONETUG/events/278843145/)
+
 * [July 15th 2021-Chris Woodruff: Developing Great Web APIs Architectures with ASPNET5](./meetings/woody.md)
