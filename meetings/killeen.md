@@ -1,10 +1,10 @@
 [Home](../)
 
-### July 27th 2021-Sean Kileen - An Introduction to the Actor Model and Akka .NET
+### July 27th 2021-Sean Killeen - An Introduction to the Actor Model and Akka .NET
 
 **Speaker:**
 
-Sean Kileen
+Sean Killeen
 
 **Title:**
 
