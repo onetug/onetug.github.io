@@ -20,7 +20,8 @@ Originally from the Philadelphia area, Sean has 15+ years of experience solving 
 
 **Meeting Notes:**
 
-* Slides: <https://seankilleen.com/Presentations/AkkaIntro/presentation/>
-* Code: <https://github.com/SeanKilleen/Presentations/tree/master/AkkaIntro/code>
+* [Recording](https://youtu.be/82dl5qZu7Mk)
+* [Slides](https://seankilleen.com/Presentations/AkkaIntro/presentation/)
+* [Code](https://github.com/SeanKilleen/Presentations/tree/master/AkkaIntro/code)
 * Contact: always happy to hear from you via [SeanKilleen.com](https://SeanKilleen.com) or on Twitter at [@sjkilleen](https://twitter.com/sjkilleen) 
 * Feedback welcome! I'll be re-tooling this talk in the future and your input could help me back it better for others.
