@@ -21,3 +21,9 @@ The familiarity of Blazor component model, Razor rendering engine, CSS styling &
 **Bio**
 
 Sam Basu is a technologist, author, speaker, Microsoft MVP, gadget-lover and a Developer Advocate at Progress Software. With a long developer background, he now spends much of his time advocating modern development platforms & tools on Microsoft/Telerik technology stacks. His spare times call for travel, fast cars, cricket and culinary adventures. He is @samidip on the internet.
+
+**Recording**
+
+**Meeting Notes:**
+
+* [Recording](https://youtu.be/GkNaMndqQEQ)
